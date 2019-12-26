@@ -1,6 +1,6 @@
 # wg-gesucht.de KeepMeUp
 
-Das Tool ändert das Inserat leicht ab (Zeitstempel im Freitext-Bereich "Sonstiges"), um in der Suche immer wieder oben zu stehen.
+Das Tool ändert das wg-gesucht.de-Inserat leicht ab (Zeitstempel im Freitext-Bereich "Sonstiges"), um in der Suche immer wieder oben zu stehen.
 
 
 ## Setup
